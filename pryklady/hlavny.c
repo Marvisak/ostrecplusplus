@@ -2,6 +2,6 @@
 #include <stdio.h>
 
 cyslo hlavny() {
-  vyplyvny("OSTRAVA!!!\n");
-  vracaj 0;
+  vyplyvny("OSTRAVA!!!\n") pyco
+  vracaj 0 pyco
 }
