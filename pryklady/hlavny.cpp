@@ -2,6 +2,6 @@
 #include <iostream>
 
 cyslo hlavny() {
-  standartne::vyplyvny << "OSTRAVA!!!" << standartna::tecka;
-  vracaj 0;
+  standartne::vyplyvny << "OSTRAVA!!!" << standartna::tecka pyco
+  vracaj 0 pyco
 }

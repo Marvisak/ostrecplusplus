@@ -8,5 +8,6 @@
 #define tecka endl
 
 #define vracaj return
+#define pyco ;
 
 #define hlavny main
